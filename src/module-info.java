@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author chaitany
+ *
+ */
+module Singleton {
+}
